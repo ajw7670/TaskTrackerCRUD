@@ -78,7 +78,7 @@ src/main/java
 │   ├── exception
 │   │   └── TaskNotFoundException.java // Custom exception
 │   ├── repository
-│   │   └── TaskRepository.java // in-memory list acting as database
+│   │   └── TaskRepository.java // In-memory list acting as database
 ```
 
 ---
