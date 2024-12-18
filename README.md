@@ -45,7 +45,7 @@ The Task Tracker API is a simple RESTful application built using Spring Boot to 
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ajw7670/TaskTrackerCRUD.git
    cd task-tracker-api
    ```
 
