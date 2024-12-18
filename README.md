@@ -77,6 +77,8 @@ src/main/java
 │   │   └── Task.java                // Represents task data
 │   ├── exception
 │   │   └── TaskNotFoundException.java // Custom exception
+│   ├── repository
+│   │   └── TaskRepository.java // in-memory list acting as database
 ```
 
 ---
