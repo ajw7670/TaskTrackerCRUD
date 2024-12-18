@@ -67,7 +67,7 @@ The Task Tracker API is a simple RESTful application built using Spring Boot to 
 ## Project Structure
 ```
 src/main/java
-├── com/example/tasktracker
+├── com/TaskTracker
 │   ├── TaskTrackerApplication.java  // Main entry point
 │   ├── controller
 │   │   └── TaskController.java      // Handles API requests
